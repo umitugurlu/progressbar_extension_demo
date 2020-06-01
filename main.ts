@@ -1,6 +1,16 @@
 //% color="#9C27B0" weight=100 icon="\uf110"
 
 namespace progressAnimation{
+    
+    
+    //% blockId=progressAnimationLoading
+    //% block="progressBar LedSayisi = $ledsayisi, LedSirasi =  $sira, Durum = $durum"
+    
+    //% ledsayisi.defl=3  sira.defl=1
+    //% durum.defl=true
+    //% ledsayisi.min=1 ledsayisi.max=5
+    //% sira.min=0 sira.max=4
+    //% color="#FF5733" 
 
 
 
