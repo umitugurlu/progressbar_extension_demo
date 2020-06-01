@@ -1,4 +1,9 @@
+//% color="#9C27B0" weight=100 icon="\uf110"
+
 namespace progressAnimation{
+
+
+
 
 
 export function progress_bar (ledsayisi: number, sira: number, durum: boolean):void {
