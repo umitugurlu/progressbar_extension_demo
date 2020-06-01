@@ -16,7 +16,7 @@ namespace progressAnimation{
 
 
 
-export function progress_bar (ledsayisi: number, sira: number, durum: boolean):void {
+export function progress_bar (ledsayisi: number, sira: number, durum: boolean) {
     if (durum) {
         for (let satir = 0; satir <= 4; satir++) {
             for (let sutun = 0; sutun <= ledsayisi - 1; sutun++) {
